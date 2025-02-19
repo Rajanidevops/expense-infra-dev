@@ -14,10 +14,10 @@ variable "common_tags" {
     }
 }
 
-variable "zone_id" {
-    default = "Z077080463WR579GO8DD"
-}
-
 variable "domain_name" {
     default = "rajani.online"
+}
+
+variable "zone_id" {
+    default = "Z021448929NMXW4P65UQE"
 }
